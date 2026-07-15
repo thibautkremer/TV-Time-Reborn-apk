@@ -1,3 +1,6 @@
-- `[x]` Update `compileSdkVersion` and `targetSdkVersion` in `variables.gradle`
-- `[ ]` Sync Gradle
-- `[ ]` Verify build
+- `[ ]` Localize LocalForage JS
+- `[ ]` Localize Supabase JS
+- `[ ]` Localize Tailwind CSS
+- `[ ]` Update root `index.html`
+- `[ ]` Update Android assets `index.html`
+- `[ ]` Verify interactions
