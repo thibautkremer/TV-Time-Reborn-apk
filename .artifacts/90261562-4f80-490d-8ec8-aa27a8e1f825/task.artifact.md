@@ -1,0 +1,3 @@
+- `[x]` Update `compileSdkVersion` and `targetSdkVersion` in `variables.gradle`
+- `[ ]` Sync Gradle
+- `[ ]` Verify build
